@@ -35,7 +35,7 @@
 ![windows](https://skillicons.dev/icons?i=windows)
 ![linux](https://skillicons.dev/icons?i=linux)
 ![figma](https://skillicons.dev/icons?i=figma)
-![arch](https://skillicons.dev/icons?i=arch)
+![Linux](https://skillicons.dev/icons?i=Linux-Dark)
 
 
 <div align="center">
