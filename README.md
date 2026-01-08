@@ -55,7 +55,7 @@
 --->
 <p align="center">
   <img src="https://img.shields.io/github/followers/md-habibullah-99?style=flat&label=followers" />
-  <img src="https://img.shields.io/github/stars/md-habibullah-99?style=flat&affiliations=owner&label=stars" />
+  <img src="https://img.shields.io/github/stars/md-habibullah-99??style=flat&affiliations=OWNER&label=Stars" />
 </p>
 
 ---
