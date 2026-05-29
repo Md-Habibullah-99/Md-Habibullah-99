@@ -14,28 +14,28 @@
 - 😄 pronouns: he/him
 
 - badges:  
-![javascript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript) 
-![typescript](https://img.shields.io/badge/typescript-2f74c0?style=flat&logo=typescript&logocolor=white) 
-![node.js](https://img.shields.io/badge/node.js-3c873a?style=flat&logo=nodedotjs) 
-![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react) 
+![sql](https://img.shields.io/badge/sql-323330?style=flat&logo=sql)
+![git](https://img.shields.io/badge/git-b0260d?style=flat&logo=git&logocolor=white) 
+![linux](https://img.shields.io/badge/linux-000?style=flat&logo=linux) 
+![debian](https://img.shields.io/badge/debian-D70A53?style=flat&logo=debian) 
 ![fedora](https://img.shields.io/badge/fedora-5277c3?style=flat&logo=fedora&logocolor=white) 
+![javascript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript) 
+![node.js](https://img.shields.io/badge/node.js-2a5e29?style=flat&logo=nodedotjs) 
+![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react) 
 ![shell](https://img.shields.io/badge/shell-121011?style=flat&logo=gnu-bash) 
 ![github actions](https://img.shields.io/badge/github%20actions-222?style=flat&logo=githubactions) 
-![git](https://img.shields.io/badge/git-f05033?style=flat&logo=git&logocolor=white) 
-![linux](https://img.shields.io/badge/linux-000?style=flat&logo=linux) 
-![neovim](https://img.shields.io/badge/neovim-57a143?style=flat&logo=neovim&logocolor=white)
+![neovim](https://img.shields.io/badge/neovim-417732?style=flat&logo=neovim&logocolor=white)
 ## 🧰 tools i use
 
+![linux](https://skillicons.dev/icons?i=linux)
 ![vscode](https://skillicons.dev/icons?i=vscode)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
 ![neovim](https://skillicons.dev/icons?i=neovim)
 ![pycharm](https://skillicons.dev/icons?i=pycharm)
 ![arduino](https://skillicons.dev/icons?i=arduino)
-![git](https://skillicons.dev/icons?i=git)
-![github](https://skillicons.dev/icons?i=github)
 ![windows](https://skillicons.dev/icons?i=windows)
-![linux](https://skillicons.dev/icons?i=linux)
 ![figma](https://skillicons.dev/icons?i=figma)
-
 
 <div align="center">
   <br>
