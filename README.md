@@ -7,8 +7,8 @@
 
 ### 🚀 About Me
 - 👀 I’m interested in contributing in **technologies,software development,web development**
-- 🌱 I’m currently learning **python, javascript, NextJs** and solving problems in [codeforces](https://codeforces.com/profile/Great_Bear) and [beecrowd](https://judge.beecrowd.com/en/profile/840739)
-- 🧠 i know **c/c++, java, python, react, html, css, javascript**
+- 🌱 I’m currently learning **SQL, python** and solving problems in [codeforces](https://codeforces.com/profile/Great_Bear) and [beecrowd](https://judge.beecrowd.com/en/profile/840739)
+- 🧠 i know **SQL(sql server), c/c++, java, python, react, html, css, javascript**
 - 💞️ i’m looking to collaborate on projects
 - 📫 how to reach me in [![discord](https://img.shields.io/badge/discord-habibullah-darkblue)](https://discordapp.com/users/975573360941629480) and  [![linkedin](https://img.shields.io/badge/linkedin-profile-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/habibullah123/)
 - 😄 pronouns: he/him
@@ -36,6 +36,7 @@
 ![arduino](https://skillicons.dev/icons?i=arduino)
 ![windows](https://skillicons.dev/icons?i=windows)
 ![figma](https://skillicons.dev/icons?i=figma)
+
 
 <div align="center">
   <br>
